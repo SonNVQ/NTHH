@@ -13,13 +13,17 @@
 ## Demo
 ![Demo](https://i.imgur.com/t2PdoEg.png)
 ## How to use?
-**Vào https://github.com/nguyenson-gdtd/NTHH/releases tải file NguyenToHoaHocv1.0.zip về giải nén và chạy.**
+**1.Vào https://github.com/nguyenson-gdtd/NTHH/releases tải file NguyenToHoaHocv1.0.zip về giải nén và chạy.**
 
 ![Step1](https://i.imgur.com/GBAtCFd.png)
 
+**2.Vào thư mục NguyenToHoaHocv1.0 vừa giải nén và chạy file NguyenToHoaHocv1.0.exe**
 
-**Cách tạo lối tắt ngoài màn hình**
+![Step2](https://i.imgur.com/8M4Vhat.png)
 
-![Step2](https://i.imgur.com/FVifOpJ.png)
+
+**3.Cách tạo lối tắt ngoài màn hình**
+
+![Step3](https://i.imgur.com/FVifOpJ.png)
 ## Feedback
 https://www.facebook.com/nsgdtd
