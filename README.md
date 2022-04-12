@@ -1,5 +1,5 @@
 # NTHH - Nguyên Tố Hoá Học
-Đây là chương trình giúp ôn tập và ghi nhớ bảng 1 trang 42 SGK Hoá 8 cho các bạn học sinh phổ thông =))
+Chương trình giúp ôn tập và ghi nhớ bảng 1 trang 42 SGK Hoá 8 cho học sinh phổ thông
 
 ## Problem
 > "Mọi vấn đề về môn Hoá đều bắt nguồn từ Bảng 1 Trang 42"
